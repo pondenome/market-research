@@ -1,0 +1,8 @@
+Country
+Native language
+Age range
+Gender
+Education level
+Occupation
+Income range
+
