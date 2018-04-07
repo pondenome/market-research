@@ -1,0 +1,4 @@
+1. On a scale from 1 to 5 (with 5 being most concerned), how concerned are you about your online privacy?
+2. Do you agree with the following statement: I would be less concerned about your privacy if you knew that all your communications were end-to-end encrypted and the server provider could not decrypt your content.
+3. Do you agree with the following statement: I would be less concerned about my privacy if the service was completely open source.
+4. Do you agree with the following statement: I would be less concerned about my privacy if the service did not generate money from targeted advertising.
