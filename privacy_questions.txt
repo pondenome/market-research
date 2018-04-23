@@ -2,3 +2,10 @@
 2. Do you agree with the following statement: I would be less concerned about your privacy if you knew that all your communications were end-to-end encrypted and the server provider could not decrypt your content.
 3. Do you agree with the following statement: I would be less concerned about my privacy if the service was completely open source.
 4. Do you agree with the following statement: I would be less concerned about my privacy if the service did not generate money from targeted advertising.
+
+PRIVACY LITERACY:
+Do you know what the following terms mean?
+1. encrypt
+2. open source
+3. targeted advertising
+(don't know, have a vague idea, definitely know)
