@@ -1,11 +1,21 @@
 1. On a scale from 1 to 5 (with 5 being most concerned), how concerned are you about your online privacy?
-2. Do you agree with the following statement: I would be less concerned about your privacy if you knew that all your communications were end-to-end encrypted and the server provider could not decrypt your content.
-3. Do you agree with the following statement: I would be less concerned about my privacy if the service was completely open source.
-4. Do you agree with the following statement: I would be less concerned about my privacy if the service did not generate money from targeted advertising.
 
-PRIVACY LITERACY:
-Do you know what the following terms mean?
-1. encrypt
-2. open source
-3. targeted advertising
-(don't know, have a vague idea, definitely know)
+// more useful for brand messaging than actually understanding how users feel
+2. PRIVACY LITERACY:
+Do you know what the following terms mean? //maybe add "used in a sentence" to each one
+a. encrypt
+b. open source
+c. targeted advertising
+(answers: don't know, have a vague idea, definitely know)
+
+// more useful for brand messaging than actually understanding how users feel
+3. Do you agree with the following statement: I would be less concerned about my privacy if I knew that all my communications were end-to-end encrypted and the server provider could not decrypt your content.
+4. Do you agree with the following statement: I would be less concerned about my privacy if the service was completely open source.
+5. Do you agree with the following statement: I would be less concerned about my privacy if the service did not generate money from targeted advertising.
+
+// more useful for understanding how users feel
+ALT WORDING:
+3. I would be less concerned about my privacy if I knew that the service I'm using couldn't read my content.
+4. I would be less concerned about my privacy if I knew that the service was run by its users and not a big corporation.
+5. I would be less concerned about my privacy if I knew the service didn't make money off my information.
+
