@@ -1,15 +1,17 @@
-- On a weekly basis: How often do you interact with other peoples posts?
-- Do you tend to comment on posts from others more than you post yourself?
-- On a weekly basis: How often do you send private messages?
-- On a weekly basis: How often do you play video or listen to music which was already posted?
-- On a weekly basis: How often do you upload photos or videos to a social network?
 
-- Do you value: Being able to easily make new connections regardless of real world interactions?
-- Do you value: Having your profile available for anyone in the World to see regardless of whether you know them personally?
-- Do you value: Being able to express and talk to like-minded people about hobbies and interests?
+Rate these items in order from most to least important, in your social media usage:
+1. posting content
+2. uploading photos or videos
+3. interacting with text-based content from other people
+4. interacting with media content from other people (i.e. playing video/listening to music)
+5. sending private messages
+6. setting a time limit for how long certain types of your content will be available publically
+7. being able to meet and talk to like-minded people about hobbies and interests
+8. social gaming (with friends/family)
 
-- Would you value: Being able to set a time limit for how long certain types of your content will be available publically?
-- Would you value: Being able to send messages via audio/video only compared to text only?
+Do you like: 
+- Being able to easily make new connections, regardless of real world interactions?
+- Having your profile available for anyone in your network to see, regardless of whether you know them personally?
+
 - What kind of content would you like your profile page to show about you?
 - Do you spend more time interacting with known friends/family publicly or privately?
-- Is social gaming an important part of your online social experience?
