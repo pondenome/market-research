@@ -1,0 +1,14 @@
+Country
+- John Land
+Native language
+- Doeish
+Age range
+- 20
+Gender
+- Male
+Education level
+- University
+Occupation
+- Supreme leader
+Income range
+- £0/year
