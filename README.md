@@ -1,15 +1,15 @@
 # market-research
 For planning and executing market research (surveys, interviews, etc.)
 
-# Informal interviews
-## What?
+## Informal interviews
+### What?
 - A short sample of questions to ask friends/family in an informal interview.
 
-## Why?
+### Why?
 - Once we have collected enough we will process the answers and write out a survey to send out to a global audience.
 - We need to learn more about what people actually want from a social network but also to try and dig out our own technical insight (killer app idea).
 
-## How to contribute
+### How to contribute
 - checkout the repository
 - inside the `informal-interviews` folder
 - copy the `questions` folder into `answers` as a folder under your own name e.g. `/answers/john-doe`
@@ -17,7 +17,7 @@ For planning and executing market research (surveys, interviews, etc.)
 - once you have collected all of your answers commit and push into the repository
 - Thanks :)
 
-## Questions
+### Questions
 - What if I do not get to ask questions from all categories?
   - It's fine if you don't get through all of the questions, just include categories and questions you have answers for
 - What if I do not understand one of the questions or even the answers?
