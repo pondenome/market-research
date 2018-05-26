@@ -8,7 +8,7 @@
 - We need to learn more about what people actually want from a social network but also to try and dig out our own technical insight (killer app idea).
 
 ## How to contribute
-- checkout the repository
+- checkout the `market-research` repository
 - inside the `informal-interviews` folder
 - copy the `questions` folder into `answers` as a folder under your own name e.g. `/answers/john-doe`
 - for each question put your answer directly below the question (example in `/answers/john-doe/demographic.txt`)
